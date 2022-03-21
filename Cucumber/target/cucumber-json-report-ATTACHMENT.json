@@ -121,6 +121,12 @@
     "name": "Calculator",
     "description": "As a user\nI want to use a calculator\nSo that I don\u0027t need to calculate myself",
     "id": "calculator",
+    "tags": [
+               {
+                   "name": "@storykey\\u003DIV-4",
+                   "line": 1
+               }
+    ],
     "keyword": "Feature",
     "uri": "cucumber/calculator.feature"
   }
